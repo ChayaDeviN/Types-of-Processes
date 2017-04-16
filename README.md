@@ -24,4 +24,4 @@ A Daemon process is a process which is not associated with any terminal and henc
 
 The daemon process running in the background can be checked using :
 
-ps -A|grep "daemon"
+ps -A | grep "daemon"
